@@ -1,0 +1,57 @@
+### Flutter ###
+
+# Built application files
+*.apk
+*.ipa
+*.dSYM
+
+# Generated files
+/android/app/src/main/res/values/strings.xml
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+build/
+
+# Editor backups, old files, etc.
+*~
+.*~
+# IntelliJ
+*.iml
+.idea/
+
+# VSCode
+.vscode/
+
+# Android Studio
+*.iws
+*.ipr
+.idea/
+
+# Gradle
+.gradle
+/android/.gradle/
+/android/build/
+
+# Local history for watchers
+.history
+
+# Crashlytics files
+crashlytics-build.properties
+
+# temporary files
+**/*.tmp
+**/*.swp
+**/*.swo
+
+# Logs
+*.log
+
+# Packages
+.packages
+
+# Generated asset files
+lib/generated/l10n/*
+
+# dotenv file
+.env
